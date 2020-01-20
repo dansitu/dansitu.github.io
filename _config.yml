@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Daniel Situnayake's blog
-description: This is the personal blog of Daniel Situnayake.
+description: Dan writes about embedded machine learning. He's coauthor of the book <a href="https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043">TinyML (O'Reilly)</a> and is Founding TinyML Engineer at <a href="http://edgeimpulse.com/">Edge Impulse</a>.
 github_username: dansitu
 
 # Email and twitter are optional:
