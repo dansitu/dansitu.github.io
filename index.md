@@ -1,3 +1,3 @@
 Hi! My name is Dan and I write about embedded machine learning. I'm coauthor of the O'Reilly book [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043). I work as Founding TinyML Engineer at [Edge Impulse](http://edgeimpulse.com/), and I help organize the [tinyML meetup](https://www.meetup.com/tinyML-Enabling-ultra-low-Power-ML-at-the-Edge).
 
-I've previously worked on the TensorFlow team at Google, and co-founded [Tiny Farms](https://www.tiny-farms.com/), the insect farming company.
+I've previously worked on the [TensorFlow](https://www.tensorflow.org/) team as part of [Google AI](https://ai.google/), and co-founded [Tiny Farms](https://www.tiny-farms.com/), the insect farming company.
