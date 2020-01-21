@@ -12,6 +12,5 @@ It’s been a huge decision to walk away from Google, and I’m deeply grateful 
 
 Edge Impulse is launching very soon, and I’m excited to be jumping into the fray as their first full-time hire! You can [see a sneak peak of the product here](https://www.linkedin.com/pulse/happy-holidays-from-edge-impulse-sneak-peek-where-meet-jan-jongboom/), and I encourage you to [sign up for the developer preview](https://share.hsforms.com/189Tf6w9lRgeXMv-Zs3-Vhw3sk4v). We’ll be working hard to make this a tool you love to use, and I can’t wait to hear your thoughts.
 
-Warmly,
-
+Warmly,  
 Dan
