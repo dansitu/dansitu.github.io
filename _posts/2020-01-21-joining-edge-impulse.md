@@ -1,4 +1,4 @@
-# Joining EdgeImpulse
+# Joining Edge Impulse
 
 I’m thrilled to announce that I’ve joined the team at [Edge Impulse](https://edgeimpulse.com/) in the role of Founding TinyML Engineer.
 
