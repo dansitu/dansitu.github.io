@@ -16,7 +16,7 @@ The second exciting thing was meeting our whole team for the first time. Edge Im
 
 ### LoRaWAN and TinyML
 
-Which brings me to my third topic. We announced our launch at [The Things Conference](https://www.thethingsnetwork.org/conference/), which I’d recommend for anyone interested in the embedded space. The conference is focused on [LoRaWAN](https://lora-alliance.org/about-lorawan), which is an extremely exciting set of technologies for long-distance, low-power radio communications. It’s hosted by [The Things Network](https://www.thethingsnetwork.org/), who provide tooling for devs building LoRaWAN systems.
+And _bandwidth_ brings me to my third topic. We announced our launch at [The Things Conference](https://www.thethingsnetwork.org/conference/), which I’d recommend for anyone interested in the embedded space. The conference is focused on [LoRaWAN](https://lora-alliance.org/about-lorawan), which is an extremely exciting set of technologies for long-distance, low-power radio communications. It’s hosted by [The Things Network](https://www.thethingsnetwork.org/), who provide tooling for devs building LoRaWAN systems.
 
 If you haven’t heard of LoRaWAN, you should definitely take a look. LoRa-connected devices can make low data rate transmissions over long distances (potentially > 10km), using very little energy. The technology is designed for transmitting data from battery-operated sensors—think tiny environmental sensors that run for 5 years without battery replacement. Thanks to the WAN (_Wide Area Network_) part, these sensors can potentially report back through a global, distributed network of LoRa gateways run by various organizations.
 
