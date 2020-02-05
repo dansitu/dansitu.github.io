@@ -39,4 +39,5 @@ Global networks of low-powered but intelligent sensors could transform our world
 Now that we've launched Edge Impulse, you can [sign up](http://edgeimpulse.com/) and try it out! The quickest way to get started is with an [STM32 IoT node discovery kit board](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html), which is about $50. You'll be able to capture audio and accelerometer data, and train classification models using classical ML and deep learning. It's super fun and easy—honestly, I was blown away the first time I saw it. If you do try the product, I'd love to hear what you think!
 
 Warmly,
+
 Dan
