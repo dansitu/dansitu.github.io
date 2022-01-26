@@ -14,7 +14,7 @@ we held in a meeting room on the Google campus—is now a [large international c
 of a [popular Harvard course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning).
 
 With TinyML and other edge AI technologies reaching maturity, engineering professionals and product managers who wish to use them need a practical guide to solving real-world
-industrial, commercial, and scientific problems. **AI at the Edge** is designed to go beyond the fundamentals and help technology professionals understand
+industrial, commercial, and scientific problems. **AI at the Edge** is designed to go beyond the fundamentals and help readers understand
 the edge AI landscape, evaluate potential solutions, design successful applications, and support them in the field—while avoiding the unique risks presented by
 AI engineering.
 
