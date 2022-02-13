@@ -1,10 +1,10 @@
 # Thinking about panpsychism
 
-I wrote this essay a few months back after reading a wonderful book by Meghan O’Gieblyn titled ​*God, Human, Animal, Machine*​, but never got around to publishing it. This week’s Twitter debate on the subjective experience of large language models reminded me that I’d written it, so I thought I’d throw it out here.
+I wrote this essay a few months back after reading a wonderful book by Meghan O’Gieblyn titled [​*God, Human, Animal, Machine*​](https://www.penguinrandomhouse.com/books/567075/god-human-animal-machine-by-meghan-ogieblyn/), but never got around to publishing it. This week’s [Twitter debate on the subjective experience of large language models](https://twitter.com/ilyasut/status/1491554478243258368?s=20&t=6ymbGdsTQ9_7pKPunNt7QA) reminded me that I’d written it, so I thought I’d throw it out here.
 
 From my perspective, the current conversation around conscious experience in artificial systems—while worth having—is fundamentally misguided. It reflects our implicit bias towards viewing arbitrary chunks of the universe as discrete, and ignores the near impossibility of defining what an artificial system actually ​*is*​. 
 
-This essay doesn’t explicitly discuss artificial intelligence, but it makes a case for an expansive view of consciousness that makes a lot of this week’s questions irrelevant. A deep learning model running on a cluster of computational hardware is an interplay of information, systems, and matter. It’s an idea, not an entity. Before we ask if it can have subjective experience, we need to do the same of its constituent parts.
+This essay doesn’t explicitly discuss artificial intelligence, but it makes a case for an expansive view of consciousness that leaves a lot of this week’s questions moot. A deep learning model running on a cluster of computational hardware is an interplay of information, systems, and matter. It’s an idea, not an entity. Before we ask if it can have subjective experience, we need to do the same of its constituent parts.
 
 ~
 
