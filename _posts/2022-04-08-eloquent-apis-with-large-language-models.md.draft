@@ -1,0 +1,48 @@
+# Eloquent APIs with large language models
+
+Modern developers spend most of their time gluing together APIs. Without a universal schema for representing concepts and objects (which, due to the fuzziness of conceptual reality, seems like an impossible dream), it can be challenging to map one representation onto another.
+
+For example, in this silly example, two separate APIs might define a "person" object with totally different properties:
+
+```
+// API 1:
+{
+    'name': string,
+    'age': number
+}
+
+// API 2:
+{
+    'first_name': string,
+    'last_name': string,
+    'date_of_birth': string
+}
+```
+
+Anyone who has worked with API integration has run into this issue a million times. It gets even worse when actions are involved—outside of standards (like OAuth, which is not exactly easy to comprehend) there's no _general_ way to define an endpoint to do a particular task. In practice, it's diminishingly unlikely that any two APIs share any commonality. As a result, there's no way to automatically hook up APIs.
+
+## How we solve this problem today
+
+Developers learn to hook up APIs by reading API documentation. This provides a textual description of what the properties and methods in an API represent, and how to correctly format requests. This turns software development into a (rather challenging) exercise of reading comprehension. API docs are often neglected, unclear, or missing altogether. Developers have to spend time on trial and error, figuring out what works and what doesn't.
+
+## Solving the problem using large language models
+
+Some language models can now beat human benchmarks in language comprehension. This makes them a potential tool for developers to use. What if a language model could read API documentation and perform an integration automatically? If both sides of an API have documentation, it should be possible for a model to figure out the common concepts and generate some code. However, generating a training corpus for this task would be challenging—even if you have a big dataset of API integrations, how do you make sure you fetch the correct API docs to correlate them with?
+
+Tools like GitHub's Copilot approach the problem in a different way, using patterns from a large corpus of existing code (and comments) to suggest smart suggestions for common actions. The disadvantage of this approach is that it only works for API integrations that have already been done by hand.
+
+## Eloquent APIs
+
+It should be possible to build a system that automates API hookups without requiring any new models to be trained. The raw ingredients are:
+
+* A pre-trained language model that can answer questions on a text, whether explicitly by design (BERT-SQuAD) or accidentally by nature (GPT3 with some prompt engineering).
+* A standard way to describe named API endpoints and entities.
+* A carefully written text that accompanies each API, to be consumed by the language model.
+
+Here's an example API described in this form:
+
+```
+Endpoint: Person
+Description: I 
+```
+
